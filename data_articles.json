@@ -1,0 +1,23 @@
+[
+  {
+    "id": "article_1",
+    "title": "기후 변화와 환경 정책",
+    "keywords": ["환경", "기후", "정책"],
+    "category": "환경",
+    "emoji": "🌳"
+  },
+  {
+    "id": "article_2",
+    "title": "경제 성장과 새로운 산업",
+    "keywords": ["경제", "산업", "성장"],
+    "category": "경제",
+    "emoji": "💰"
+  },
+  {
+    "id": "article_3",
+    "title": "스포츠 스타의 사회적 영향",
+    "keywords": ["스포츠", "스타", "사회"],
+    "category": "스포츠",
+    "emoji": "⚽"
+  }
+]
